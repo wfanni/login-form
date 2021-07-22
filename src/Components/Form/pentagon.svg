@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   width="588" height="540" viewBox="5 22 392 360"
+   version="1.0"
+   sodipodi:docbase="C:\Files\Pics\Misc Etc"
+   sodipodi:docname="Penrose_pentagon.svg">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g style="fill-opacity:1;fill-rule:evenodd;stroke:transparent;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="layer1">
+    <path
+       style="fill:#6CCAF2"
+       d="M 172.98989,42.94332 L 39.5975,140.99557 L 88.14358,303.37511 L 122.11126,302.93475 L 73.41939,150.40586 L 219.78655,43.95821 L 172.98989,42.94332 z "
+       id="path7986"/>
+    <path
+       style="fill:#564256"
+       d="M 73.4804,150.51812 L 219.42314,43.99068 L 366.3531,150.56007 L 374.43617,186.36967 L 226.58965,80.12463 L 82.64493,180.60686 L 73.4804,150.51812 z "
+       id="path8087"
+       sodipodi:nodetypes="ccccccc"/>
+    <path
+       style="fill:#FC814A"
+       d="M 226.65338,80.14312 L 374.49988,187.30838 L 328.05903,331.34218 L 293.81625,354.86998 L 344.81301,198.82257 L 203.57992,96.7208 L 226.65338,80.14312 z "
+       id="path8089"/>
+    <path
+       style="fill:#0779B5"
+       d="M 320.65512,181.84261 L 344.75732,199.00754 L 294.0545,355.22026 L 106.41326,356.7 L 70.99477,334.35599 L 272.77733,330.0058 L 320.65512,181.84261 z "
+       id="path8091"/>
+    <path
+       style="fill:#F9C784"
+       d="M 272.40074,329.41852 L 70.10864,334.28374 L 25.5,180.4831 L 39.75557,141.86199 L 87.96001,303.21333 L 281.5945,301.16026 L 272.40074,329.41852 z "
+       id="path8093"
+       sodipodi:nodetypes="ccccccc"/>
+  </g>
+</svg>
